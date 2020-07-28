@@ -32,14 +32,14 @@ BJX API为用户提供了一套简单而强大的开发工具，帮助用户将�
 #### REST API
 [quotes_rest_api.md](./quotes_rest_api.md)
 <p>
-主域名: q.ix.com 备用域名: q.ixex.io
+主域名: q.bjx.io 备用域名: 
 </p>
 
 #### WebSocket API
 [quotes_websocket_api.md](./quotes_websocket_api.md)
 <p>
-主域名: ws.ix.com 备用域名: ws.ixex.io
+主域名: ws.bjx.io 备用域名: 
 </p>
 
 ## 联系我们
-如需帮助请添加微信号：ixxkefu  备注：IXXAPI+IXX账号，拉你进API问题交流群
+如需帮助请添加微信号：bjxkefu  备注：BJXAPI+BJX账号，拉你进API问题交流群
